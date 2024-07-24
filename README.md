@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my Profile
+## Hi there! 👋 Welcome to my Profile
 
 - 👋 Hi, I’m @abhishekbaranawal
   
