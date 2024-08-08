@@ -4,7 +4,10 @@
   
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
+
+- Improving my data structures and algorithms skills
+- Deepening my understanding of front-end web development
 
 - 👯 I’m looking to collaborate on ...
 
